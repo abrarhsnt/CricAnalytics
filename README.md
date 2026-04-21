@@ -1,6 +1,6 @@
 # CricAnalytics – Interactive Cricket Dashboard
 
-**Live demo:** [https://cricanalytics.streamlit.app](https://cricanalytics.streamlit.app)
+**Live demo:** [https://cricanalytics-az3ycqzgbxsssx2et9jcvk.streamlit.app/](https://cricanalytics-az3ycqzgbxsssx2et9jcvk.streamlit.app/)
 
 ## Project Overview
 
