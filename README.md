@@ -31,7 +31,7 @@ CricAnalytics is an end-to-end data analytics project that transforms IPL ball-b
 ## How to Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CricAnalytics.git
+git clone https://github.com/abrarhsnt/CricAnalytics.git
 cd CricAnalytics
 pip install -r requirements.txt
 streamlit run app.py
