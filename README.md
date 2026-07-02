@@ -1,4 +1,4 @@
-# CricAnalytics – Interactive Cricket Dashboard
+# CricAnalytics: Interactive Cricket Dashboard
 
 **Live demo:** [https://cricanalytics-tee2bs8wtajpvy4evjahwv.streamlit.app/](https://cricanalytics-tee2bs8wtajpvy4evjahwv.streamlit.app/)
 
